@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "minima"
+  spec.name          = "sparky"
   spec.version       = "2.1.0"
-  spec.authors       = ["Joel Glovier"]
-  spec.email         = ["jglovier@github.com"]
+  spec.authors       = ["sparkymat"]
+  spec.email         = ["sparkymat@github.com"]
 
-  spec.summary       = %q{A beautiful, minimal theme for Jekyll. NOT DONE YET.}
-  spec.homepage      = "https://github.com/jekyll/minima"
+  spec.summary       = %q{A beautiful, minimal theme for Jekyll, forked from Minima 2.0.}
+  spec.homepage      = "https://github.com/sparkymat/sparky-theme"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
